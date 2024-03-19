@@ -1,5 +1,5 @@
 {
-    "name": "AVISHA ROBOT",
+    "name": "ᴄʜᴇᴇᴍs ᴍᴀɴᴀɢᴇʀ",
     "description": "Telegram Group Management Bot.",
     "logo": "https://telegra.ph/file/2e004afbc4c17d0b130b3.jpg",
     "keywords": [
@@ -13,7 +13,7 @@
  "addons": [
     {
        "options": {
-          "version": "12"
+          "version": "15"
        },
        "plan": "heroku-postgresql"
     }
